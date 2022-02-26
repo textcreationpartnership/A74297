@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act prescribing certain times to delinquents for perfecting their compositions effectually, under several penalties. Die Lunæ, 9 April, 1649. Ordered by the Commons assembled in Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliament'.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74297</idno>
+            <idno type="STC">Thomason E1060_20</idno>
+            <idno type="STC">ESTC R205486</idno>
+            <idno type="EEBO-CITATION">99864853</idno>
+            <idno type="PROQUEST">99864853</idno>
+            <idno type="VID">117085</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74297)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117085)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act prescribing certain times to delinquents for perfecting their compositions effectually, under several penalties. Die Lunæ, 9 April, 1649. Ordered by the Commons assembled in Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliament'.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>p. [2], 135-146, [i.e. 14] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Husband, printer to the Honorable House of Commons, and are to be sold at his shop in Fleetstreet, at the sign of the Golden-Dragon, near the Inner-Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>April 12. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an order to print dated 9 April 1649.</note>
+                  <note>Signatures: 2B-2C⁴. Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>On 2B2r: last word of first line of text: "Ordinance"; first word of line below initial: "pound"; last word of last full line: "Com-".</note>
+                  <note>Title ornament; initials, text in black letter.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Confiscations --  England --  Early works to 1800.</term>
+               <term>Fines (Penalties) --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117085:1" rendition="simple:additions"/>
+            <p>AN ACT Preſcribing certain Times to DELINQUENTS For perfecting their Compoſitions Effectually, under ſeveral Penalties.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Lunae, 9 April, 1649.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons aſſembled in Parliament, That this Act be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliament'.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Com<g ref="char:EOLhyphen"/>mons, and are to be ſold at his Shop in Fleetſtreet, at the Sign of the Golden-Dragon, near the Inner-Temple, <hi>April</hi> 12. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:117085:2"/>
+            <pb n="135" facs="tcp:117085:2"/>
+            <head>AN ACT Preſcribing certain Times to DELINQUENTS For perfecting their Compoſitions Effectually, under ſeveral penalties.</head>
+            <p>
+               <seg rend="decorInit">V</seg>VHereas by Ordinance of Parliament of the ſixth of <hi>February, 1646.</hi> it is Ordained, That the Commiſsioners for compounding with Delinquents, have po<g ref="char:EOLhyphen"/>wer to ſuſpend the ſe<g ref="char:EOLhyphen"/>queſtration of the E<g ref="char:EOLhyphen"/>ſtates of ſuch Delin<g ref="char:EOLhyphen"/>quents as ſhall com<g ref="char:EOLhyphen"/>pound with them, the Delinquents having paid the moyety of the Fines compounded for, and given Security to the ſaid Commiſsioners for the remainder thereof, according to the proporti<g ref="char:EOLhyphen"/>on to be ſet by both Houſes of Parliament: Pro<g ref="char:EOLhyphen"/>vided, That every ſuch perſon ſo compounding, do within ſix weeks pay the remainder of his ſaid Fine, and ſue forth his Pardon under the Great-Seal, after his Compoſition ſhall be al<g ref="char:EOLhyphen"/>lowed by both Houſes of Parliament, otherwiſe the ſuſpenſion to be void: Yet many whoſe Com<g ref="char:EOLhyphen"/>poſitions
+<pb n="136" facs="tcp:117085:3"/>have been ſet, and allowed by both Houſes of Parliament, have not paid in the ſe<g ref="char:EOLhyphen"/>cond moyety of their ſaid Compoſitions, accord<g ref="char:EOLhyphen"/>ing as by the ſaid Ordinance is appointed; by reaſon whereof, the Commonwealth hath been diſappointed of thoſe moneys which were in<g ref="char:EOLhyphen"/>tended from the ſaid Treaſury for the publique ſervice; to ſupply which, the Treaſurers at <hi>Gold<g ref="char:EOLhyphen"/>ſmiths-Hall</hi> have been neceſsitated to take up at Intereſt great ſums of money upon the credit of the ſaid Compoſitions, for which the ſaid Treaſury ſtands ingaged: The Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament being very ſenſible, how much the ſaid Compounders have abuſed the ſaid Act of Grace, Do therefore Enact and De<g ref="char:EOLhyphen"/>clare, That this Clauſe onely in the ſaid proviſo of the ſaid Ordinance <hi>(viz. That every ſuch perſon ſo compounding, do pay in the remainder of his ſaid Fine within Six weeks after the Compoſitions ſhall be allowed by both Houſes of Parliament)</hi> ſhall be, and is hereby Repealed and made void. And to the end that a preſent ſupply of Moneys may be brought in to the ſaid Treaſury, It is Enacted and Ordained by the Commons aſſembled in Parliament, That all ſuch perſons, whoſe Compoſitions have been ſet or allowed by both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, ſhall pay or cauſe to be paid in to the ſaid Treaſury before the Sixth day of <hi>May,</hi> in the year of our Lord God, <hi>1649.</hi> the full ſum or ſums remaining due upon their ſaid Compoſitions re<g ref="char:EOLhyphen"/>ſpectively; and in default thereof, ſhall pay In<g ref="char:EOLhyphen"/>tereſt for the ſame, after the Rate of Eight pounds <hi>per cent.</hi> from the time or times at which the ſame became due and payable reſpectively, together with one fourth part more of the whole ſum of their reſpective Compoſitions, as an ad<g ref="char:EOLhyphen"/>ditional Fine. And it is further Enacted by the
+<pb n="137" facs="tcp:117085:3"/>Authority aforeſaid, That all ſuch perſons, whoſe Fines or Compoſitions have been ſet by the ſaid Commiſsioners, and allowed of by the Houſe of Commons onely, ſhall pay or cauſe to be paid in to the ſaid Treaſury, before the twen<g ref="char:EOLhyphen"/>tieth day of <hi>May, 1649.</hi> the full ſum of their ſaid Fines, or ſo much thereof as remains due upon their ſaid Compoſitions reſpectively; and in de<g ref="char:EOLhyphen"/>fault thereof, to pay Intereſt for the ſame, after the rate of Eight pounds <hi>per centum,</hi> from and after the ſaid twentieth day of <hi>May, 1649.</hi> toge<g ref="char:EOLhyphen"/>ther with one fourth part more of the whole ſum of their reſpective Compoſitions, as an ad<g ref="char:EOLhyphen"/>ditional fine: And that all ſuch perſons whoſe fines for Compoſitions have been ſet by the ſaid Commiſsioners, before the ſeventh day of <hi>April, 1649.</hi> but before the ſame day have not been re<g ref="char:EOLhyphen"/>ported unto, or allowed by the Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament, ſhall pay, or cauſe to be paid in to the ſaid Treaſury, the one Moyety of their reſpective fines, before the ſixth day of <hi>May, 1649.</hi> (if ſuch Moyety be not already paid) and the other Moyety thereof, within ſix weeks after their ſaid fines reſpectively ſhall be allowed by the ſaid Commons, or by ſuch as by their autho<g ref="char:EOLhyphen"/>rity ſhall be authorized and appointed thereunto; or otherwiſe, in default of ſuch payment of the ſaid ſeveral Moyeties, or either of them, ſhall pay Intereſt for the ſame at the rate aforeſaid, from the time or times at which the ſame ſhall be become payable, by vertue of this Act, toge<g ref="char:EOLhyphen"/>ther with the like penalty, as aforeſaid, of one fourth part more of the whole ſum of their reſpe<g ref="char:EOLhyphen"/>ctive Compoſitions, as an additional fine: And that all ſuch perſons, whoſe fines for Compoſi<g ref="char:EOLhyphen"/>tions, ſhall after the ſaid ſeventh day of <hi>April, 1649.</hi> be ſet by the ſaid Commiſsioners, or by
+<pb n="138" facs="tcp:117085:4"/>ſuch others as ſhall be by the Commons in Parliament aſſembled authorized thereunto, ſhall pay or cauſe to be paid in to the ſaid Trea<g ref="char:EOLhyphen"/>ſury, the one Moyety of ſuch their reſpective fines, within fourteen days after the ſetting thereof, and the other Moyety within ſix weeks after ſuch their ſeveral fines ſhall be allow<g ref="char:EOLhyphen"/>ed of by the Commons in Parliament aſſem<g ref="char:EOLhyphen"/>bled as aforeſaid, or by ſuch as by their Au<g ref="char:EOLhyphen"/>thority ſhall be authorized and appointed there<g ref="char:EOLhyphen"/>unto; or otherwiſe, in default of ſuch payment of the ſaid ſeveral Moyeties, or either of them, ſhall pay Intereſt for the ſame at the Rate aforeſaid, from the time or times at which the ſame ſhall become due and payable by vertue of this Act; together with the like penalty as a<g ref="char:EOLhyphen"/>foreſaid, of one fourth part more of the whole ſum of their reſpective Compoſitions, as an ad<g ref="char:EOLhyphen"/>ditional fine. And it is further Enacted and Or<g ref="char:EOLhyphen"/>dained, That in caſe any of the perſons above<g ref="char:EOLhyphen"/>mentioned, that make default in paying in his or their full Compoſitions, within ſuch time and times as are above limited, that then the Real and Perſonal Eſtates of ſuch Defaulters ſhall be forthwith Sequeſtred, until they reſpective<g ref="char:EOLhyphen"/>ly conform thereunto: And the ſaid Commiſsi<g ref="char:EOLhyphen"/>oners at Goldſmiths Hall, or any five or more of them, are hereby authorized and enabled to Sequeſter, or to take order for the Sequeſtring of the Real and Perſonal Eſtates of ſuch De<g ref="char:EOLhyphen"/>linquents and defaulters; and to direct to the re<g ref="char:EOLhyphen"/>ſpective Committees for Sequeſtrations in the ſeveral counties, or ſuch other Committees for Sequeſtrations as ſhall be appointed by Par<g ref="char:EOLhyphen"/>liament, a Warrant for the purpoſes aforeſaid, and for the removing of every ſuch perſon and perſons out of the poſſeſsion of his or their houſe
+<pb n="339" facs="tcp:117085:4"/>or houſes, who are hereby required to obey and perform the ſame: And all Governors of Ga<g ref="char:EOLhyphen"/>riſons, and other Officers and Soldiers in the ſervice of Parliament, are hereby required to be ayding and aſsiſting unto them in the execution thereof for the purpoſes aforeſaid. And for the more effectual proſecuting of the ſaid Seque<g ref="char:EOLhyphen"/>ſtrations, It is further Enacted by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That the ſaid Commiſsioners, or any five or more of them, ſhall and may nomi<g ref="char:EOLhyphen"/>nate, and appoint, and authorize, by Warrant under their Hands, a Solicitor or Solicitors for Sequeſtrations in the ſeveral counties of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales,</hi> to proſecute the ſeizing, ſeque<g ref="char:EOLhyphen"/>ſtring and ſecuring the Real and Perſonal E<g ref="char:EOLhyphen"/>ſtates of ſuch Defaulters as aforeſaid, and every of them; and ſhall and may appoint a Collector or Collectors for the gathering and receiving of the Rents, Iſſues and Profits of the Lands, Tenements and Hereditaments of the ſaid per<g ref="char:EOLhyphen"/>ſons ſo making default as aboveſaid: Which ſaid Solicitors and Collectors ſhall from time to time obſerve ſuch Orders and Directions as they ſhall receive from the ſaid Commiſsioners, or the ſaid Committees for the ſaid reſpective counties, in ſuch caſe where the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners ſhall not have given former Directions. And it is further Enacted and Ordained, That the ſaid Solicitors for Sequeſtrations reſpe<g ref="char:EOLhyphen"/>ctively, ſhall return unto the ſaid Commiſsio<g ref="char:EOLhyphen"/>ners, according to his or their beſt knowledge, Duplicates of the Rent-Rolls of the Lands, Tenements and Hereditaments appointed to be ſequeſtred as aforeſaid, within ſix weeks after the Sequeſtration thereof, and ſhall take and return Inventories of the Perſonal Eſtate of ſuch as ſhall be ſequeſtred as aforeſaid, within
+<pb n="140" facs="tcp:117085:5"/>ſix weeks after the Sequeſtration thereof (and in default thereof, ſuch Solicitor ſhall loſe the benefit of his Salary by this Act to him ap<g ref="char:EOLhyphen"/>pointed) and after ſuch return made, ſhall and may, with the advice, approbation and direction of the reſpective Committees of the county, or any three of them, ſell the Goods of ſuch perſon and perſons at the beſt rate or value he or they can get for the ſame. And to the end that the Commonwealth may receive the benefit of the Sequeſtrations, It is Enacted and Ordained, That the ſaid Commiſsioners, or the ſaid Com<g ref="char:EOLhyphen"/>mittees for the ſaid counties reſpectively, or any three of them, ſhall and may, and are hereby au<g ref="char:EOLhyphen"/>thorized and enabled to make a Leaſe or Leaſes by Deed Indented, of any the Manors, Lands, Tenements or Hereditaments of ſuch perſon and perſons (as ſhall make default as aforeſaid) or any part thereof, for ſuch number of years as they ſhall conceive moſt advantagious to the Commonwealth, reſerving the beſt Rent they can get for the ſame. Provided always, the Leaſe or Leaſes ſo to be made, do not exceed the term of three Years, nor be made to the Delin<g ref="char:EOLhyphen"/>quent, or to any to his uſe and benefit: And in caſe any ſuch Leaſe ſhall be made unto or to the uſe of ſuch Delinquent or Delinquents, then ſuch Leaſe to be meerly void; and upon infor<g ref="char:EOLhyphen"/>mation and proof thereof made to the ſaid Com<g ref="char:EOLhyphen"/>miſsioners, the ſaid Commiſsioners or any three of them, ſhall have power to make a Leaſe thereof at the ſame Rent, for the like number of years, to him or them that ſhall make ſuch in<g ref="char:EOLhyphen"/>formation, being of ability to pay the Rent re<g ref="char:EOLhyphen"/>ſerved. And it is further Enacted, That all ſuch Rents, Iſſues and Profits as ſhall be re<g ref="char:EOLhyphen"/>ceived by reaſon of the Sequeſtrations of ſuch
+<pb n="141" facs="tcp:117085:5"/>Defaulters, ſhall be paid to the ſaid Treaſurers of Goldſmiths-hall, to be diſpoſed of to ſuch uſes as the Parliament ſhall hereafter appoint: And whereas divers Delinquents have ſubmit<g ref="char:EOLhyphen"/>ted to a Compoſition, and brought in their par<g ref="char:EOLhyphen"/>ticulars, but have neglected to proſecute the ſame, It is therefore Enacted and Ordained, That all ſuch Delinquents ſhall within twen<g ref="char:EOLhyphen"/>ty eight days after the ſeventh of <hi>April, 1649.</hi> ef<g ref="char:EOLhyphen"/>fectually proſecute their ſaid Compoſitions, and in default thereof, ſhall loſe the benefit of Com<g ref="char:EOLhyphen"/>poſition, and their Eſtates to be finally confiſ<g ref="char:EOLhyphen"/>cate, and to be diſpoſed of to the uſe of the Commonwealth. Provided always, That this Act, nor any thing therein contained, ſhall ex<g ref="char:EOLhyphen"/>tend to take away the benefit of any Articles not forfeited, nor to reſtore the benefit of any Articles forfeited: And becauſe divers of thoſe who are intruſted in the execution of the Ordi<g ref="char:EOLhyphen"/>nances relating to Sequeſtrations, do ſuffer di<g ref="char:EOLhyphen"/>vers Delinquents to dwell in their houſes, and themſelves, or ſome to their uſes, do Rent of the Sequeſtrators their Lands and Tent<g ref="char:EOLhyphen"/>ments at low and eaſie rates, by reaſon where<g ref="char:EOLhyphen"/>of, and becauſe ſuch Delinquents are allowed the fifth part for their wives and children, and are thereby encouraged to forbear and delay their Compoſitions, It is therefore Enacted, That the ſaid Commiſſioners, or the ſaid Com<g ref="char:EOLhyphen"/>mittees for the reſpective counties, or any three or more of them, ſhall remove out of the poſſeſ<g ref="char:EOLhyphen"/>ſion of their Houſes and Lands ſuch Delin<g ref="char:EOLhyphen"/>quents, or any others intruſted for them, unleſs they and every of them ſhall come in and com<g ref="char:EOLhyphen"/>pound at or within the days above limited; for the effecting whereof, all Governors of Gari<g ref="char:EOLhyphen"/>ſons and Soldiers, in the ſervice of Parliament,
+<pb n="142" facs="tcp:117085:6"/>are required to be aiding and aſsiſting to the ſaid Commiſſioners and Committees reſpectively, And it is further Enacted by the authority afore<g ref="char:EOLhyphen"/>ſaid, That the ſeveral and reſpective Solici<g ref="char:EOLhyphen"/>tors for Sequeſtrations imployed by the ſaid Commiſsioners, ſhall take the ſame Oath that Solicitors for Sequeſtrations are by a former Ordinance appointed to take: Which ſaid Oath the ſaid Commiſſioners or any three of them are hereby authorized to adminiſter: And that the ſaid Committees for Sequeſtrations of the re<g ref="char:EOLhyphen"/>ſpective counties, for the Leaſing out of Delin<g ref="char:EOLhyphen"/>quents Eſtates, and the ſaid Solicitors and Re<g ref="char:EOLhyphen"/>ceivers may have encouragement effectually to proſecute the ſaid ſervice, It is hereby Enacted, That the ſaid reſpective Committees ſhall have for every twenty ſhillings Rent reſerved upon every Leaſe Sealed and Delivered by the ſaid Committees as aforeſaid, ſix pence in the pound; and every reſpective Solicitor ſhall be paid for his or their Salary, for every twenty ſhillings that ſhall be paid in to the ſaid Treaſurers by reaſon of the ſaid Sequeſtration, the ſum of three pence in the pound; and the reſpective Col<g ref="char:EOLhyphen"/>lectors ſhall have and receive for his and their Salaries, the ſum of two pence in the pound for every twenty ſhillings paid in to the ſaid Trea<g ref="char:EOLhyphen"/>ſurers: Which ſaid ſeveral ſums the ſaid Trea<g ref="char:EOLhyphen"/>ſurers are to allow, and make payment of ac<g ref="char:EOLhyphen"/>cordingly. And it is further Enacted, That the ſaid Treaſurers ſhall have, take and receive out of all ſuch Moneys as ſhall be paid in to them by vertue of this Act, the like Salary as they have for other Compoſitions Moneys paid in to them. And whereas the Parliament, out of their deſire to eſtabliſh Maintenance for a Preaching Miniſtery, have given way, That
+<pb n="143" facs="tcp:117085:6"/>the ſaid Commiſſioners ſhould buy in Impro<g ref="char:EOLhyphen"/>priations and Tythes of Delinquents that ſhould compound with them, at ſuch rates as they ſhould contract for the ſame; In purſuance whereof the ſaid Commiſſioners have contract<g ref="char:EOLhyphen"/>ed with ſeveral perſons for Tythes and Impro<g ref="char:EOLhyphen"/>priations of the value of Ten thouſand pounds <hi>per annum,</hi> or thereabouts, for which the ſaid Commiſſioners have abated in the whole out of the ſeveral Compoſitions, the ſum of One hun<g ref="char:EOLhyphen"/>dred thouſand pounds; the greateſt part of which Impropriations and Tythes are not as yet ſetled, according to order in that behalf made, It is therefore hereby Enacted and Declared, That all ſuch perſons as have been ordered by the ſaid Commiſſioners, or any Committees there for that purpoſe authorized, to ſetle any Rectory, or Maintenance out of any Rectory, Parſonage or Tythes, for which they have had allowance and abatement in their ſaid fines, ſhall within eight weeks after the ſeventh day of <hi>April, 1649.</hi> ſetle the ſame upon ſuch Truſtees as the ſaid Commiſſioners ſhall appoint, for ſuch uſes as the Parliament ſhall hereafter direct: And in default thereof, ſuch of the ſaid Delin<g ref="char:EOLhyphen"/>quents as have paid any part of their fines, and have thereupon obtained Letters to ſuſpend their Sequeſtrations, ſhall be forthwith reſe<g ref="char:EOLhyphen"/>queſtred, until they reſpectively ſhall ſetle the ſaid Rectories or Maintenance reſpectively as aforeſaid, and pay ſuch Arrerages as have grown due ſince the time the ſame were ordered to be ſetled by the ſaid Commiſſioners: And that all ſuch perſons as ſhall from hence<g ref="char:EOLhyphen"/>forth be Ordered to ſetle any Rectory, Par<g ref="char:EOLhyphen"/>ſonage or Tythes, or any Allowance out of them to the uſe aforeſaid, ſhall within
+<pb n="144" facs="tcp:117085:7"/>eight weeks after the date of the ſaid Order, ſetle the ſame under the ſame penalties as is laſt aforeſaid. And foraſmuch as the great bu<g ref="char:EOLhyphen"/>ſineſſes of the Commonwealth do as yet hinder the making of Reports from Goldſmiths-Hall, It is therefore Enacted, That the ſaid Com<g ref="char:EOLhyphen"/>miſſioners for Compoſitions, or any five or more of them, upon the Compounders paying in of the Moyety of his fine, or ſatisfying the ſame by ſettlement of any Rectories or Tythes, or any allowance out of them, and not otherwiſe, ſhall or may grant to ſuch Compounder, an Order to ſuſpend the Sequeſtration of his E<g ref="char:EOLhyphen"/>ſtate: And upon his paying in, or like ſatisfy<g ref="char:EOLhyphen"/>ing as aforeſaid the whole fine, to diſcharge the Eſtate from Sequeſtration; Which ſaid Orders reſpectively ſhall be effectual to ſuſpend or diſ<g ref="char:EOLhyphen"/>charge from Sequeſtration ſo much as he hath compounded for. And whereas divers perſons being ſequeſtred, or queſtioned for Delinquen<g ref="char:EOLhyphen"/>cy, have made their Appeals unto the late Committee of Lords and Commons for Se<g ref="char:EOLhyphen"/>queſtrations, and have procured a ſuſpenſion of their Sequeſtrations, and thereby enjoyed the benefit of their Eſtates, and by reaſon thereof do not effectually proſecute their ſaid Appeals, It is therefore Enacted and Declared, That the Barons of the Court of Exchequer ſhall, and are hereby conſtituted and appointed Commiſſioners for Appeals in caſe of Seque<g ref="char:EOLhyphen"/>ſtrations, before whom ſuch perſons as afore<g ref="char:EOLhyphen"/>ſaid may proſecute their Appeals: And the ſaid Commiſſioners for Appeals, or any two or more of them, ſhall have the ſame power and autho<g ref="char:EOLhyphen"/>rity to all intents and purpoſes, to take cog<g ref="char:EOLhyphen"/>nizance of ſuch Appeals already made, and to receive any new Appeals of like kinde, and to
+<pb n="145" facs="tcp:117085:7"/>examine, hear and determine the ſame, and to proceed in all things in relation thereto, as the late Committee of Lords and Commons for Se<g ref="char:EOLhyphen"/>queſtrations lawfully had, or might have ex<g ref="char:EOLhyphen"/>erciſed for that purpoſe by vertue of any Or<g ref="char:EOLhyphen"/>dinance of Parliament in that behalf made: And that all ſuch perſons that have already made ſuch Appeals as aforeſaid, and yet have not effectually proſecuted the ſame, they and every of them are hereby required effectually to proſecute ſuch their reſpective Appeals before the ſaid Commiſſioners for Appeals hereby conſtituted, within two moneths next after the ſeventh day of <hi>April, 1649.</hi> or otherwiſe, in caſe of failer thereof through wilful default or neg<g ref="char:EOLhyphen"/>lect of ſuch perſon appealing, then every ſuch ſuſpenſion of his or their Sequeſtration, procu<g ref="char:EOLhyphen"/>red as aforeſaid reſpectively, ſhall from thence<g ref="char:EOLhyphen"/>forth be taken off, be <hi>Null</hi> and void. And the Committees for Sequeſtrations in the reſpe<g ref="char:EOLhyphen"/>ctive counties of <hi>England</hi> and <hi>Wales,</hi> are hereby enjoyned thereupon to reſequeſter the Eſtate of every ſuch Delinquent; which if they ſhall neg<g ref="char:EOLhyphen"/>lect to do, or take effectual order for, then the ſaid Commiſſioners for Compoſitions, or any five or more of them, are hereby authorized to do, or to take order for the ſame. And that this work may the more certainly and ſpeedily be done, the ſaid Commiſſioners for Appeals are enjoyned from time to time to certifie, or cauſe their Clerk to certifie to the ſeveral Com<g ref="char:EOLhyphen"/>mittees for the reſpective counties, the Names of ſuch Delinquents, and every of them, ma<g ref="char:EOLhyphen"/>king ſuch default or neglect as aforeſaid. And it is further Enacted, That this preſent Act be forthwith printed and publiſhed; and that the Commiſſioners aforeſaid do forthwith ſend
+<pb n="146" facs="tcp:117085:8"/>the ſame to the reſpective Sheriffs of the ſeveral counties of <hi>England</hi> and <hi>Wales,</hi> who are hereby required to publiſh the ſame in the chief Market Towns of the ſaid counties, on the next Mar<g ref="char:EOLhyphen"/>ket day after the receipt hereof; and the day of Publication hereof, to certifie to the ſaid Commiſsioners at Goldſmiths-Hall.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Die Lunae, 9 April, 1649.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Parliament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+            <pb facs="tcp:117085:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
